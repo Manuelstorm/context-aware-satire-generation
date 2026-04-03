@@ -1,0 +1,41 @@
+==================================================
+  RISULTATI UFFICIALI BLIND TEST (700 VOTI)  
+==================================================
+Totale Voti raccolti: 700
+Numero di Tester: 35
+
+--- PERCENTUALI DI VITTORIA ---
+DPO_v2.2: 27.14% (190 voti)
+PPO_v2: 26.14% (183 voti)
+Zephyr_Base: 25.57% (179 voti)
+Nessuna: 21.14% (148 voti)
+
+[+] Grafici salvati con successo: 'grafico_barre_voti.png' e 'grafico_torta_voti.png'
+
+--- ACCORDO INTER-ANNOTATORE ---
+Fleiss' Kappa calcolato: 0.066
+Interpretazione: Accordo Debole
+
+--- ANALISI VERBOSITY (WORD COUNT) ---
+Media parole calcolata analizzando il dataset inferenziale (Appendice A):
+ - Zephyr Base : 27.7 parole
+ - PPO_v2      : 29.4 parole
+ - DPO_v2.2    : 18.7 parole
+
+Conclusione: DPO_v2.2 è estremamente più sintetico e tagliente della Base!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
