@@ -68,7 +68,7 @@ L'architettura supporta il caricamento dinamico dei pesi e la gestione di checkp
 ## Model Weights
 A causa dei limiti di archiviazione di GitHub per i file di grandi dimensioni, i pesi addestrati dei modelli valutatori (`deberta_judge.pth`, ~700MB) e gli adapter LoRA di Zephyr non sono inclusi direttamente in questa repository.
 
-[👉 Clicca qui per scaricare i pesi completi da Google Drive]()
+[👉 Clicca qui per scaricare i pesi completi da Google Drive](https://drive.google.com/drive/folders/19mjTmeAUSSdYqTm5Z_Rd06l5IkcMW39H?usp=sharing)
 
 ### Stack Tecnologico Principale
 
