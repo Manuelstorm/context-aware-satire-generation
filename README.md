@@ -65,6 +65,10 @@ Tutti i notebook sono stati ingegnerizzati per essere eseguiti in ambienti Cloud
 
 L'architettura supporta il caricamento dinamico dei pesi e la gestione di checkpoint intermedi per prevenire la perdita di dati in scenari di out-of-memory. Tutti i risultati e i dati raccolti sono riproducibili eseguendo gli script dedicati, in particolare `estrai_risultati.py` per le metriche del blind test.
 
+## Model Weights
+A causa dei limiti di archiviazione di GitHub per i file di grandi dimensioni, i pesi addestrati dei modelli valutatori (`deberta_judge.pth`, ~700MB) e gli adapter LoRA di Zephyr non sono inclusi direttamente in questa repository.
+
+[👉 Clicca qui per scaricare i pesi completi da Google Drive]()
 
 ### Stack Tecnologico Principale
 
